@@ -1,0 +1,8 @@
+Tested on Kali, Ubuntu, Raspberry pi
+Dependencies are host, nc
+
+
+ sudo git clone https://github.com/leeclout/tcpnoise.git
+ cd tcpnoise/
+ sudo chmod 755 tcpnoise.sh
+ ./tcpnoise.sh
